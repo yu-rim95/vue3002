@@ -1,24 +1,24 @@
-# vue3002
+## VUE CLI 설치
 
-## Project setup
-```
-yarn install
-```
+npm install -g @vue/cli
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## VUE 만들기
 
-### Compiles and minifies for production
-```
-yarn build
-```
+vue create vue 3001
 
-### Lints and fixes files
-```
-yarn lint
-```
+## yarn 설치
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm i -g yarn
+
+## vue 시작하기
+
+npm run serve
+yarn run serve
+
+## vue 확장기능
+
+vetur
+
+## vue ui
+
+vue ui
